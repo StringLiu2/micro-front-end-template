@@ -1,5 +1,5 @@
 {
-  "name": "single-spa-project",
+  "name": "micro-front-end",
   "version": "1.0.0",
   "description": "",
   "main": "./src/single-spa.config.ts",
